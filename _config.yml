@@ -1,3 +1,6 @@
-name: Your New Jekyll Site
+name: lifecoach 
 markdown: redcarpet
 pygments: true
+
+paginate: 5
+paginate_path: "blog/page:num"
