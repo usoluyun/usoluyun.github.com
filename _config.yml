@@ -1,6 +1,6 @@
 name: lifecoach 
-desc: usoluyun 
-markdown: redcarpet
+description: usoluyun 
+markdown: redcarpet:
 pygments: true
 url: http://usoluyun.github.com
 author: usoluyun
