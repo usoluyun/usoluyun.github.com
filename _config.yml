@@ -1,4 +1,5 @@
 name: lifecoach 
+desc: 非典型业余棒垒球教练笔记
 markdown: redcarpet
 pygments: true
 
