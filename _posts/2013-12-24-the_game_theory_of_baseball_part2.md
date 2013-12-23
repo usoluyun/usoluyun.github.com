@@ -1,3 +1,8 @@
+---
+layout: post
+title: 棒球的博弈论 part 2 
+---
+
 #棒球的博弈论 part 2 
 
 > **前言** 
